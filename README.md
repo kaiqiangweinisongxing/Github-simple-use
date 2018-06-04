@@ -3,7 +3,7 @@
 New repository，repository name就是项目的名称
 
 ## 2.删除仓库
-1.  删除repository可以在repository的settings中，拉到最底部，可见删除按钮
+1.  删除repository可以在repository的settings中，拉到最底部，可见delete this repository。
 2.  要输入repository name再次确认防止误删除。
 
 ## 3.修改仓库
@@ -14,16 +14,17 @@ New repository，repository name就是项目的名称
 ## 4.分支branch
 1.	用于合作完成项目。
 2.	master是默认主branch，可以穿件一个新的branch。
-3.	在新branch上面修改的项目可以与master上面的项目进行比较。点击“New pull request”进行Compare changes，根据变化情况，如果符满意修改情况，则进行合并操作“Merge pull request” - “Confirm merge”，然后删除分支“delete branch”
+3.	在新branch上面修改的项目可以与master上面的项目进行比较。点击“New pull request”进行Compare changes，根据变化情况，如果符满意修改情况，则进行合并操作“Merge pull request” - “Confirm merge”，然后删除分支“delete branch”。
 
 ## 5. 克隆和下载
 1.	点击“Clone or download”，“open in desktop”是克隆到github的客户端，“download ZIP”是下载。
 
 # 客户端操作
 ## 1.创建仓库
-File - New repository，name就是项目的名称，local path是存放的本地地址
+File - New repository，name就是项目的名称，local path是存放的本地地址。
+
 ## 2. 删除仓库
-要在客户端中remove，也要在本地删除项目文件夹
+要在客户端中remove，也要在本地删除项目文件夹。
 
 ## 3.修改仓库
 1. 在本地文件夹中修改，然后修改记录会显示在客户端中
